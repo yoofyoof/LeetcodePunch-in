@@ -1,6 +1,6 @@
 # nodeExpressReactBootstrapPagination
 
-## Author: 
+## Authors: 
 Yufei Zhu & Xiaomin Ouyang
 
 ## Class Link: 
