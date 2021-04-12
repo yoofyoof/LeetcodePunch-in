@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+}
+
+.SignIn {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+    url(../Images/tech.jpg) center center / cover no-repeat;
+}
+
+.signcard {
+  background-color: whitesmoke;
+  opacity: 0.8;
+  height: 410px;
+  width: 300px;
+  margin-top: 150px;
+  margin-bottom: 500px;
+}
+
+.card-header {
+  color: #3c240f;
+}
+
+.card-body {
+  color: #3c240f;
+}
+
+.container-fluid {
+  align-content: center;
+  height: 100vh;
+}
+
+.card-footerText {
+  font-family: "Roboto", sans-serif;
+  color: brown;
+}
+
+@media only screen and (max-width: 600px) {
+  .card {
+    width: 250px;
+  }
+}

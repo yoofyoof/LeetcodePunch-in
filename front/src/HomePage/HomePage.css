@@ -1,0 +1,59 @@
+.timeline {
+  font-size: 14px;
+  line-height: 1.8;
+  font-weight: 600;
+}
+
+.grid {
+  margin: 10px;
+  border-radius: 25px;
+  border: 2px solid #73ad21;
+  padding: 20px;
+  width: 200px;
+}
+
+.searpost-input-qid {
+  margin: 5px;
+  grid-area: searInput;
+  background-color: whitesmoke;
+  border: 2px solid #a9a9a9;
+  border-radius: 10px;
+  height: 40px;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+.btn-search {
+  margin: 5px;
+  grid-area: btnSearch;
+  background-color: #292b2c;
+  color: #ffffff;
+  border-radius: 10px;
+  height: 40px;
+  align-self: center;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.btn-reset {
+  margin: 5px;
+  background-color: #292b2c;
+  color: #ffffff;
+  grid-area: btnReset;
+  border-radius: 10px;
+  height: 40px;
+  align-self: center;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.calendar {
+  align-self: center;
+  height: 60%;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  border: 2px solid #73ad21;
+  font-weight: bold;
+  text-decoration-color: solid #a9a9a9;
+}

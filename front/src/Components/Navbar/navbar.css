@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Futura";
+  src: local("Futura"),
+    url(../../utility/font/Futura Bold font.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Futura-light";
+  src: local("Futura-light"),
+    url(../../utility/font/futura light bt.ttf) format("truetype");
+}
+
+.home-nav {
+  /* #556B2F #dcdcdc */
+  background-color: #556b2f;
+  font-family: Futura, sans-serif;
+}
+
+.appname {
+  margin: 10px;
+  margin-left: 30px;
+  font-size: 22px;
+  color: #ffffff;
+}
+
+.home-nav-link li {
+  display: inline;
+}
+
+.homeLogOut {
+  float: right;
+  margin: 10px;
+  background-color: #292b2c;
+  border: 3px solid white;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 22px;
+  color: #ffffff;
+  position: absolute;
+  right: 50px;
+  top: 5px;
+}
+
+button:hover {
+  background-color: #8da562;
+}
