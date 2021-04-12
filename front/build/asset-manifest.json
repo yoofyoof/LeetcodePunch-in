@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37851220.chunk.css",
+    "main.js": "/static/js/main.09198670.chunk.js",
+    "main.js.map": "/static/js/main.09198670.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.33f728f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.33f728f9.js.map",
+    "static/css/2.4a08ba6d.chunk.css": "/static/css/2.4a08ba6d.chunk.css",
+    "static/js/2.3e059f1f.chunk.js": "/static/js/2.3e059f1f.chunk.js",
+    "static/js/2.3e059f1f.chunk.js.map": "/static/js/2.3e059f1f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4a08ba6d.chunk.css.map": "/static/css/2.4a08ba6d.chunk.css.map",
+    "static/css/main.37851220.chunk.css.map": "/static/css/main.37851220.chunk.css.map",
+    "static/js/2.3e059f1f.chunk.js.LICENSE.txt": "/static/js/2.3e059f1f.chunk.js.LICENSE.txt",
+    "static/media/navbar.css": "/static/media/futura light bt.ead7282f.ttf",
+    "static/media/sign_in.css": "/static/media/tech.1adc28d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33f728f9.js",
+    "static/css/2.4a08ba6d.chunk.css",
+    "static/js/2.3e059f1f.chunk.js",
+    "static/css/main.37851220.chunk.css",
+    "static/js/main.09198670.chunk.js"
+  ]
+}
