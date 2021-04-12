@@ -55,4 +55,4 @@ yarn install
 yarn start
 ```
 
-And the frontend will run on http://localhost:3001
+And the frontend will run on http://localhost:3000
