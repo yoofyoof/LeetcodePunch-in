@@ -14,11 +14,12 @@ Yufei Zhu & Xiaomin Ouyang
 
 ## Project Objectives:
 Build a leetcode punch-in website application 
-- punch in leetcode problem
-- personal calendar
-- punch-in timeline
-- search by problem id
-- ranking list
+- Motivation to practice leetcode questions 
+- personal calendar to display completed question and track progress 
+- Live-update punch-in timeline 
+- search by problem id 
+- ranking board for top users with most total completed questions
+
 
 ## Screenshots
 ![](https://user-images.githubusercontent.com/68490431/114354727-7724e780-9b23-11eb-8126-ed579480bc76.png)
